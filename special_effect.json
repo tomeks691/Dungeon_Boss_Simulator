@@ -1,0 +1,5 @@
+{
+  "1": {"Description": "Dodaje +1 do komnaty następnej", "Type": "Obrazenia","Stat": "1"},
+  "2": {"Description": "Co rundę dodaje 1 monete", "Type": "Ekonomia","Stat": "1"},
+  "3": {"Description": "Burzy komnate by zabić bohatera", "Type": "Autodestrukcja","Stat": "0"}
+}

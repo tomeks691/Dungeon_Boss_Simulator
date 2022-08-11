@@ -1,0 +1,2 @@
+1. Usunąć problem przy wywalaniu gry po wcisnieciu entera przy blednych wprowadzonych danych.
+2. Dodać zapytanie czy chcesz kupic kolejne pokoje jesli ma wiecej nic 0 monet lub wiecej monet niz kosztuje najtansza komnata
